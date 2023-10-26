@@ -8,8 +8,12 @@ public class Vetor {
     private Aluno[] vetorDeAlunos = new Aluno[10];
 
     public void adiciona(Aluno aluno) {
-        int posicaoVazia = tamanho() - 1;
-        vetorDeAlunos[posicaoVazia] = aluno;
+        for (int i = 0; i < tamanho(); i++) {
+            if (vetorDeAlunos[i] == null) {
+                vetorDeAlunos[i] = aluno;
+                break;
+            }
+        }
     }
 
     public Aluno pega (int posicao) {
@@ -29,6 +33,7 @@ public class Vetor {
 
     public int tamanho() {
         return vetorDeAlunos.length;
+
     }
 
     public String toString(){

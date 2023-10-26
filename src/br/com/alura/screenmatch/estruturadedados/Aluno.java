@@ -20,6 +20,6 @@ public class Aluno {
 
     @Override
     public String toString() {
-        return "Nome: " + this.getNome();
+        return this.getNome();
     }
 }
