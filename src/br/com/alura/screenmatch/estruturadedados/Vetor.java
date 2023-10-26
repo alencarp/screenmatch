@@ -6,14 +6,11 @@ import java.util.Arrays;
 public class Vetor {
 
     private Aluno[] vetorDeAlunos = new Aluno[10];
+    private int totalDeAlunos = 0;
 
     public void adiciona(Aluno aluno) {
-        for (int i = 0; i < tamanho(); i++) {
-            if (vetorDeAlunos[i] == null) {
-                vetorDeAlunos[i] = aluno;
-                break;
-            }
-        }
+        vetorDeAlunos[totalDeAlunos] = aluno;
+        totalDeAlunos++;
     }
 
     public Aluno pega (int posicao) {
@@ -32,7 +29,7 @@ public class Vetor {
     }
 
     public int tamanho() {
-        return vetorDeAlunos.length;
+        return totalDeAlunos;
 
     }
 

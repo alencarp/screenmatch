@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8628e57f-3848-43f3-b998-fa808ede43bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/ValorTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/ValorTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/ValorTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Vetor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,28 +145,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/ValorTeste.java</url>
-          <line>5</line>
+          <line>6</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Vetor.java</url>
-          <line>34</line>
+          <line>31</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Vetor.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Vetor.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Vetor.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
