@@ -21,9 +21,18 @@ public class Vetor {
         vetorDeAlunos[posicao] = null;
     }
 
+//    public boolean contem (Aluno aluno) {
+//        for (int i = 0; i < totalDeAlunos; i++) {
+//            if (aluno.equals(vetorDeAlunos[i])) {
+//                return true;
+//            }
+//        }
+//        return false;
+//    }
+
     public boolean contem (Aluno aluno) {
-        for (int i = 0; i < totalDeAlunos; i++) {
-            if (aluno.equals(vetorDeAlunos[i])) {
+        for (Aluno a: vetorDeAlunos) {
+            if (aluno.equals(a)) {
                 return true;
             }
         }

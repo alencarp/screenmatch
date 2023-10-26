@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8628e57f-3848-43f3-b998-fa808ede43bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/ValorTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/ValorTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/estruturadedados/Vetor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
