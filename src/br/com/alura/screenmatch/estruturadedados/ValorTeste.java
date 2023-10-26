@@ -6,6 +6,7 @@ public class ValorTeste {
         var aluno1 = new Aluno("Patricia");
         var aluno2 = new Aluno("Maria");
         var aluno3 = new Aluno("José");
+        var aluno4 = new Aluno("Jeremias");
 
         vetor.adiciona(aluno1);
         vetor.adiciona(aluno2);
@@ -14,7 +15,7 @@ public class ValorTeste {
         System.out.println(vetor.tamanho());
         System.out.println(vetor.toString());
 
-        boolean contemNaLista = vetor.contem(aluno2);
+        boolean contemNaLista = vetor.contem(aluno4);
         System.out.println(contemNaLista);
     }
 }
